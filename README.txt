@@ -26,3 +26,4 @@ Open index.html and change:
 - Company name/tagline
 
 That’s it.
+.
